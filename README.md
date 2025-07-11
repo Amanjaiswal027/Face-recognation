@@ -1,4 +1,5 @@
 **📌 Features**
+
 🔍 Real-time face detection using webcam
 
 🎯 Accurate bounding boxes with Haar Cascade Classifier
@@ -9,6 +10,7 @@
 
 
 **🛠️ Tech Stack**
+
 Python 3.x
 
 OpenCV (cv2)
