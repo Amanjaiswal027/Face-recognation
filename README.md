@@ -8,3 +8,9 @@
 💡 Beginner-friendly and well-commented code
 
 
+🛠️ Tech Stack
+
+Python 3.x
+
+OpenCV (cv2)
+
